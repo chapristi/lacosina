@@ -1,0 +1,17 @@
+{
+    "name": "app/php-mariadb-2",
+    "autoload": {
+        "psr-4": {
+            "App\\R301\\": "src/",
+            "App\\R301\\Controller\\": "src/controllers/",
+            "App\\R301\\Model\\": "src/models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Louis Bec",
+            "email": "louis.0505@protonmail.com"
+        }
+    ],
+    "require": {}
+}
